@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 name=$1
 number=$2
